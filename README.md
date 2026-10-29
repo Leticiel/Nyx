@@ -2,8 +2,6 @@
 
 Modding tool for the Cyberworks (C,system) game engine.
 
-Decompile supported games, edit scenarios and configuration, and compile your changes.
-
 - **Partial** — Configuration and scenarios.
 - **Full** — Configuration, scenarios and media.
 
